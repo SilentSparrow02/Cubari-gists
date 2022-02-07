@@ -4,5 +4,45 @@
   "artist": "@chimairasuzuki",
   "author": "@chimairasuzuki",
   "cover": "https://uploads.mangadex.org/covers/591b6e03-c02b-4362-aa75-b9066e21f46e/652ad139-c095-49f9-b6d7-839c4278dabc.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1644230148",
+      "groups": {
+        "": [
+          "https://i.redd.it/f9u0474ur0g81.png",
+          "https://i.redd.it/46pf084ur0g81.png",
+          "https://i.redd.it/ctpvl74ur0g81.png",
+          "https://i.redd.it/0z0dq84ur0g81.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1644230231",
+      "groups": {
+        "": [
+          "https://i.imgur.com/guqT4JY.jpeg",
+          "https://i.imgur.com/buCUg2I.jpeg",
+          "https://i.imgur.com/diqmShE.jpeg",
+          "https://i.imgur.com/Wy5HOna.jpeg"
+        ]
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1644230430",
+      "groups": {
+        "": [
+          "https://i.redd.it/521fc54e2cg81.png",
+          "https://i.redd.it/6jnx164e2cg81.png",
+          "https://i.redd.it/w3gz774e2cg81.png",
+          "https://i.redd.it/n595h84e2cg81.png"
+        ]
+      }
+    }
+  }
 }
